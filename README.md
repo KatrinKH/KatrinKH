@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 I'm a third-year Computer Science student at MIREEA, specializing in full-stack development. 
 I'm passionate about building innovative web applications and continuously improving my coding skills.
 
+### Мои проекты
+- [Курсовая работа 1 курса 2022-2023](https://github.com/KatrinKH/battleship.git)
 <!---
 ## 🚀 Technologies and Tools
 
