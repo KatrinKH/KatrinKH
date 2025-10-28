@@ -11,7 +11,7 @@ I develop websites, applications, and games, and I enjoy creating interesting pr
 
 
 ### My Projects 🚀
-- [Course work of the 1st year 2022-2023](https://github.com/KatrinKH/battleship.git)
+- [Project of the 1st year 2022-2023](https://github.com/KatrinKH/battleship.git)
 
 
 ### Languages & Technologies 💻
