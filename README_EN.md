@@ -11,7 +11,8 @@ I develop websites, applications, and games, and I enjoy creating interesting pr
 
 
 ### My Projects 🚀
-- [Project of the 1st year 2022-2023](https://github.com/KatrinKH/battleship.git)
+- [Project of the 1st (year 2022-2023)](https://github.com/KatrinKH/battleship.git)
+- [My First Aid Kid (year 2025-2026)](https://github.com/KatrinKH/my_first_aid_kit.git)
 
 
 ### Languages & Technologies 💻
