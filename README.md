@@ -13,6 +13,7 @@
 ### Мои проекты
 - [Проект 1 курса (2022-2023)](https://github.com/KatrinKH/battleship.git)
 - [My First Aid Kid (2025-2026)](https://github.com/KatrinKH/my_first_aid_kit.git)
+- [Конвертер изображений в G-code (2025-2026)](https://github.com/KatrinKH/G-code-Pet-Project.git)
 
 ### Языки и технологии 💻
 - 🐍 **Python** (с 2022)
