@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-I graduated with a bachelor's degree from RTU MIREA, majoring in Information Systems and Technologies: Full-Stack Development. 
+Graduated with a bachelor's degree from RTU MIREA, majoring in Information Systems and Technologies: Full-Stack Development. 
 Starting September 2026, I will continue my studies in the Master's program at Central University, specializing in Backend Development (a joint track with MAGNIT TECH).
 
 ### My Projects 🚀
