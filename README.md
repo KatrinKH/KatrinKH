@@ -20,7 +20,7 @@
 - 🐍 **Python** (с 2022)
 - ⚡ **JavaScript** (с 2023)
 - 🎨 **HTML/CSS** (с 2023)
-- 📱 **Flutter and Dart** (с 2024)
+- 📱 **Flutter и Dart** (с 2024)
 
 ### Контакты 📫
 - [Email](mailto:normik2605@gmail.com)  
