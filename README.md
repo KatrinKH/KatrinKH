@@ -14,13 +14,13 @@
 - [Проект 1 курса (2022-2023)](https://github.com/KatrinKH/battleship.git)
 - [My First Aid Kid (2025-2026)](https://github.com/KatrinKH/my_first_aid_kit.git)
 - [Конвертер изображений в G-code (2025-2026)](https://github.com/KatrinKH/G-code-Pet-Project.git)
+- [Bookly - мобильное приложение для управления личной библиотекой](https://github.com/KatrinKH/bookly.git)
 
 ### Языки и технологии 💻
 - 🐍 **Python** (с 2022)
 - ⚡ **JavaScript** (с 2023)
 - 🎨 **HTML/CSS** (с 2023)
-- 📱 **Flutter** (с 2024)
-- 🐹 **Go** (с 2025)
+- 📱 **Flutter and Dart** (с 2024)
 
 ### Контакты 📫
 - [Email](mailto:normik2605@gmail.com)  
