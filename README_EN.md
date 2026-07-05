@@ -14,7 +14,7 @@ I develop websites, applications, and games, and I enjoy creating interesting pr
 - [Project of the 1st (2023)](https://github.com/KatrinKH/battleship.git)
 - [My First Aid Kid (2025)](https://github.com/KatrinKH/my_first_aid_kit.git)
 - [Image to G-code converter (2025)](https://github.com/KatrinKH/G-code-Pet-Project.git)
-- [Bookly - a mobile application for managing your personal library(2026)](https://github.com/KatrinKH/bookly.git)
+- [Bookly - mobile application for managing your personal library (2026)](https://github.com/KatrinKH/bookly.git)
 
 
 ### Languages & Technologies 💻
