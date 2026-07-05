@@ -6,9 +6,8 @@
 ---
 
 ## About Me
-I am a fourth-year student at **RTU MIREA**, majoring in **Information Systems and Technologies: Full-Stack Development**.  
-I develop websites, applications, and games, and I enjoy creating interesting projects on GitHub.  
-
+I graduated with a bachelor's degree from RTU MIREA, majoring in Information Systems and Technologies: Full-Stack Development. 
+Starting September 2026, I will continue my studies in the Master's program at Central University, specializing in Backend Development (a joint track with MAGNIT TECH).
 
 ### My Projects 🚀
 - [Project of the 1st (2023)](https://github.com/KatrinKH/battleship.git)
