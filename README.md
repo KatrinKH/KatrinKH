@@ -11,7 +11,7 @@
 С сентября 2026 года продолжаю обучение в магистратуре Центрального университета по направлению «Бэкенд-разработка» (совместный трек с MAGNIT TECH).
 
 ### Мои проекты
-- [Проект 1 курса (2023)](https://github.com/KatrinKH/battleship.git)
+- [Проект 1 курса (2022-2023) - «Морской бой»](https://github.com/KatrinKH/battleship.git)
 - [My First Aid Kid (2025)](https://github.com/KatrinKH/my_first_aid_kit.git)
 - [Конвертер изображений в G-code (2025)](https://github.com/KatrinKH/G-code-Pet-Project.git)
 - [Bookly - мобильное приложение для управления личной библиотекой (2026)](https://github.com/KatrinKH/bookly.git)
