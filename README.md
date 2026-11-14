@@ -16,7 +16,7 @@
 - [Конвертер изображений в G-code (2025)](https://github.com/KatrinKH/G-code-Pet-Project.git)
 - [SRSGen — Веб-приложение для генерации технических заданий (2026)](https://github.com/KatrinKH/SRSGen.git)
 - [Bookly - мобильное приложение для управления личной библиотекой (2026)](https://github.com/KatrinKH/bookly.git)
-- 
+- [DeadlineBot (2026)](https://github.com/KatrinKH/deadlinebot.git)
 
 ### Языки и технологии 💻
 - 🐍 **Python** (с 2022)
