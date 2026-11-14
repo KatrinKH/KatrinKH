@@ -14,7 +14,9 @@
 - [Проект 1 курса (2022-2023) - «Морской бой»](https://github.com/KatrinKH/battleship.git)
 - [My First Aid Kid (2025)](https://github.com/KatrinKH/my_first_aid_kit.git)
 - [Конвертер изображений в G-code (2025)](https://github.com/KatrinKH/G-code-Pet-Project.git)
+- [SRSGen — Веб-приложение для генерации технических заданий (2026)](https://github.com/KatrinKH/SRSGen.git)
 - [Bookly - мобильное приложение для управления личной библиотекой (2026)](https://github.com/KatrinKH/bookly.git)
+- 
 
 ### Языки и технологии 💻
 - 🐍 **Python** (с 2022)
