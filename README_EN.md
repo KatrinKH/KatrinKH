@@ -13,7 +13,9 @@ Starting September 2026, I will continue my studies in the Master's program at C
 - [First-year project (2022–2023) — "Battleship"](https://github.com/KatrinKH/battleship.git)
 - [My First Aid Kid (2025)](https://github.com/KatrinKH/my_first_aid_kit.git)
 - [Image to G-code converter (2025)](https://github.com/KatrinKH/G-code-Pet-Project.git)
+- [SRSGen — Web application for generating Software Requirements Specifications (2026)](https://github.com/KatrinKH/SRSGen.git)
 - [Bookly - mobile application for managing your personal library (2026)](https://github.com/KatrinKH/bookly.git)
+- 
 
 
 ### Languages & Technologies 💻
