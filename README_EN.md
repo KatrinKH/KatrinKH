@@ -15,7 +15,7 @@ Starting September 2026, I will continue my studies in the Master's program at C
 - [Image to G-code converter (2025)](https://github.com/KatrinKH/G-code-Pet-Project.git)
 - [SRSGen — Web application for generating Software Requirements Specifications (2026)](https://github.com/KatrinKH/SRSGen.git)
 - [Bookly - mobile application for managing your personal library (2026)](https://github.com/KatrinKH/bookly.git)
-- 
+- [DeadlineBot (2026)](https://github.com/KatrinKH/deadlinebot.git)
 
 
 ### Languages & Technologies 💻
